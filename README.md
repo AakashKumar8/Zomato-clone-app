@@ -26,6 +26,9 @@
 *__Live Link__* <br/>
 <b>Click [Here](https://zomato-clone-app-backend.netlify.app/)</b>
 
+*__Summary Document__* <br/>
+<b>Click [Here](https://docs.google.com/document/d/1kElbYT0oDH1EEbbji1tPMhFsBsEITT__ioxoBSo52Uc/edit?usp=sharing)</b>
+
 </hr>
 
 ## Folder Structure
